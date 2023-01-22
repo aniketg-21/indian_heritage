@@ -1,5 +1,5 @@
 # A Digital Documentation website for Indian Heritage 
-A SUNHACKS 2022 project by Team **The Dreamers**\
+A SUNHACKS 2022 project by Team **The Dreamers**
 
 ![Home Page](https://github.com/aniketg-21/indian_heritage/blob/master/public/Homepage.png?raw=true)
 
